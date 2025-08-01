@@ -2562,10 +2562,8 @@ a.chk-btn.btn1.mt-3 {
 
 
 
-
-/* .Toastify__toast{
-visibility: hidden;
+#cart-items input.form-control,#cart-items .btn  {
+    height: auto;
+    font-size: 14px;
+    line-height: 1;
 }
-.Toastify__toast:first-child {
-visibility:visible;
-} */
