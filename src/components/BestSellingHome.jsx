@@ -12,7 +12,7 @@ const BestSellingHome = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const res = await fetch('/data/product.json');
+        const res = await fetch('../data/product.json');
         const data = await res.json();
         const bestSelling = data.filter(product => product.bestseller);
         setProducts(bestSelling.slice(0, 8));

@@ -16,7 +16,7 @@ const navigate = useNavigate();
 
   useEffect(() => {
     const fetchProduct = async () => {
-      const res = await fetch('/data/product.json');
+      const res = await fetch('../data/product.json');
       const data = await res.json();
       const selected = data.find(p => p.id.toString() === productId);
       setProduct(selected);

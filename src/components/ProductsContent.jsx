@@ -25,7 +25,7 @@ const ProductsContent = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const res = await fetch("/data/product.json");
+        const res = await fetch("../data/product.json");
         const data = await res.json();
 
         setAllProducts(data);
