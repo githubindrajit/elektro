@@ -14,6 +14,9 @@ import Checkout from './pages/Checkout';
 import ProductDetail from './pages/ProductDetail';
 import Thank from './pages/Thank';
 
+import { ToastContainer } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
+
 import { CartWishlistProvider } from './context/CartWishlistContext'; // ✅ Import context
 
 const App = () => {
@@ -34,9 +37,12 @@ const App = () => {
             <Route path="/contact" element={<Contact />} />
             <Route path="/thank" element={<Thank />} />
           </Routes>
+          <ToastContainer position="top-right" autoClose={2000} />
         </main>
         <Footer />
       </BrowserRouter>
+
+
     </CartWishlistProvider>
   );
 };

@@ -5,7 +5,9 @@ import logo from '../assets/images/logo2.png';
 import { Heart, ShoppingBag } from 'lucide-react';
 import { useCartWishlist } from '../context/CartWishlistContext'; // ✅ import context
 
-import { ToastContainer } from 'react-toastify';
+// import { ToastContainer } from 'react-toastify';
+// import 'react-toastify/dist/ReactToastify.css';
+
 import { Routes, Route } from 'react-router-dom';
 const Navbar = () => {
   const { cartItems, wishlistItems } = useCartWishlist(); // ✅ access state
@@ -63,7 +65,7 @@ const Navbar = () => {
       </div>
     </header>
 
-    <ToastContainer position="top-right" autoClose={1000} />
+    {/* <ToastContainer position="top-right" autoClose={1000} /> */}
 
     </>
 

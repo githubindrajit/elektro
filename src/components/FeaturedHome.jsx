@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { useCartWishlist } from '../context/CartWishlistContext';
-import { ToastContainer } from 'react-toastify';
+
 
 const BestSellingHome = () => {
   const [products, setProducts] = useState([]);
@@ -29,7 +29,7 @@ const BestSellingHome = () => {
         <p className="subtitle mb-7">
           <Link to="/products">View All</Link>
         </p>
-        {/* <ToastContainer position="top-right" autoClose={3000} /> */}
+
         <div className="row g-4">
           {products.map((product) => (
             <div className="col-12 col-sm-6 col-lg-3" key={product.id}>
