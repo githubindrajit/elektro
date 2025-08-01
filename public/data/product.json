@@ -2,10 +2,10 @@
   {
     "id": "p001",
     "product_name": "Samsung Galaxy M14 5G",
-    "product_image": "products/mobile1.png",
-    "image": "products/mobile1.png",
+    "product_image": "productimage/mobile1.png",
+    "image": "productimage/mobile1.png",
     "gallery": [
-      "products/mobile1.png"
+      "productimage/mobile1.png"
     ],
     "product_description": "Samsung Galaxy M14 5G with powerful performance and long battery life.",
     "availability": "In Stock",
@@ -18,10 +18,10 @@
   {
     "id": "p002",
     "product_name": "Realme Narzo N53",
-    "product_image": "products/mobile2.png",
-    "image": "products/mobile2.png",
+    "product_image": "productimage/mobile2.png",
+    "image": "productimage/mobile2.png",
     "gallery": [
-      "products/mobile2.png"
+      "productimage/mobile2.png"
     ],
     "product_description": "Realme Narzo N53 with 33W fast charging and sleek design.",
     "availability": "In Stock",
@@ -33,10 +33,10 @@
   {
     "id": "p003",
     "product_name": "Motorola G14",
-    "product_image": "products/mobile3.png",
-    "image": "products/mobile3.png",
+    "product_image": "productimage/mobile3.png",
+    "image": "productimage/mobile3.png",
     "gallery": [
-      "products/mobile3.png"
+      "productimage/mobile3.png"
     ],
     "product_description": "Motorola G14 with FHD+ display and stereo speakers.",
     "availability": "In Stock",
@@ -48,10 +48,10 @@
   {
     "id": "p004",
     "product_name": "HP Victus Gaming Laptop",
-    "product_image": "products/laptop1.png",
-    "image": "products/laptop1.png",
+    "product_image": "productimage/laptop1.png",
+    "image": "productimage/laptop1.png",
     "gallery": [
-      "products/laptop1.png"
+      "productimage/laptop1.png"
     ],
     "product_description": "HP Victus with Ryzen 5 and GTX 1650 GPU for smooth gaming.",
     "availability": "In Stock",
@@ -63,10 +63,10 @@
   {
     "id": "p005",
     "product_name": "Apple MacBook Air M2",
-    "product_image": "products/laptop3.png",
-    "image": "products/laptop3.png",
+    "product_image": "productimage/laptop3.png",
+    "image": "productimage/laptop3.png",
     "gallery": [
-      "products/laptop3.png"
+      "productimage/laptop3.png"
     ],
     "product_description": "Apple MacBook Air M2 with stunning performance and battery life.",
     "availability": "In Stock",
@@ -78,10 +78,10 @@
   {
     "id": "p006",
     "product_name": "Lenovo Ideapad Slim 3",
-    "product_image": "products/laptop2.png",
-    "image": "products/laptop2.png",
+    "product_image": "productimage/laptop2.png",
+    "image": "productimage/laptop2.png",
     "gallery": [
-      "products/laptop2.png"
+      "productimage/laptop2.png"
     ],
     "product_description": "Lenovo Slim 3 for everyday productivity and entertainment.",
     "availability": "In Stock",
@@ -93,10 +93,10 @@
   {
     "id": "p007",
     "product_name": "Sony Bravia 4K UHD Smart TV 55 inch",
-    "product_image": "products/tv1.png",
-    "image": "products/tv1.png",
+    "product_image": "productimage/tv1.png",
+    "image": "productimage/tv1.png",
     "gallery": [
-      "products/tv1.png"
+      "productimage/tv1.png"
     ],
     "product_description": "Sony Bravia with 4K clarity, Dolby Audio, and smart features.",
     "availability": "In Stock",
@@ -108,10 +108,10 @@
   {
     "id": "p008",
     "product_name": "Samsung Crystal 4K TV 43 inch",
-    "product_image": "products/tv2.png",
-    "image": "products/tv2.png",
+    "product_image": "productimage/tv2.png",
+    "image": "productimage/tv2.png",
     "gallery": [
-      "products/tv2.png"
+      "productimage/tv2.png"
     ],
     "product_description": "Samsung Crystal UHD TV with dynamic crystal color.",
     "availability": "In Stock",
@@ -123,10 +123,10 @@
   {
     "id": "p009",
     "product_name": "Canon EOS 1500D DSLR Camera",
-    "product_image": "products/camera1.png",
-    "image": "products/camera1.png",
+    "product_image": "productimage/camera1.png",
+    "image": "productimage/camera1.png",
     "gallery": [
-      "products/camera1.png"
+      "productimage/camera1.png"
     ],
     "product_description": "Canon DSLR for budding photographers with 24MP CMOS sensor.",
     "availability": "In Stock",
@@ -138,10 +138,10 @@
   {
     "id": "p010",
     "product_name": "Sony Alpha ZV-E10 Mirrorless Camera",
-    "product_image": "products/camera2.png",
-    "image": "products/camera2.png",
+    "product_image": "productimage/camera2.png",
+    "image": "productimage/camera2.png",
     "gallery": [
-      "products/camera2.png"
+      "productimage/camera2.png"
     ],
     "product_description": "Sony ZV-E10 with 4K video and interchangeable lenses.",
     "availability": "In Stock",
@@ -153,10 +153,10 @@
   {
     "id": "p011",
     "product_name": "Noise ColorFit Pulse Grand Smartwatch",
-    "product_image": "products/watch1.png",
-    "image": "products/watch1.png",
+    "product_image": "productimage/watch1.png",
+    "image": "productimage/watch1.png",
     "gallery": [
-      "products/watch1.png"
+      "productimage/watch1.png"
     ],
     "product_description": "Smartwatch with fitness tracking, SpO2 and IP68 rating.",
     "availability": "In Stock",
@@ -168,10 +168,10 @@
   {
     "id": "p012",
     "product_name": "Fire-Boltt Ninja Call Pro",
-    "product_image": "products/watch2.png",
-    "image": "products/watch2.png",
+    "product_image": "productimage/watch2.png",
+    "image": "productimage/watch2.png",
     "gallery": [
-      "products/watch2.png"
+      "productimage/watch2.png"
     ],
     "product_description": "Smartwatch with calling feature and full HD screen.",
     "availability": "In Stock",
@@ -183,10 +183,10 @@
   {
     "id": "p013",
     "product_name": "JBL Go 3 Bluetooth Speaker",
-    "product_image": "products/audio2.png",
-    "image": "products/audio2.png",
+    "product_image": "productimage/audio2.png",
+    "image": "productimage/audio2.png",
     "gallery": [
-      "products/audio2.png"
+      "productimage/audio2.png"
     ],
     "product_description": "Portable wireless speaker with deep bass and waterproof body.",
     "availability": "In Stock",
@@ -198,10 +198,10 @@
   {
     "id": "p014",
     "product_name": "boAt Stone 350 Speaker",
-    "product_image": "products/audio1.png",
-    "image": "products/audio1.png",
+    "product_image": "productimage/audio1.png",
+    "image": "productimage/audio1.png",
     "gallery": [
-      "products/audio1.png"
+      "productimage/audio1.png"
     ],
     "product_description": "10W boAt speaker with stereo sound and 12h playback.",
     "availability": "In Stock",
@@ -213,10 +213,10 @@
   {
     "id": "p015",
     "product_name": "Apple iPad 10th Gen Wi-Fi",
-    "product_image": "products/tablet1.png",
-    "image": "products/tablet1.png",
+    "product_image": "productimage/tablet1.png",
+    "image": "productimage/tablet1.png",
     "gallery": [
-      "products/tablet1.png"
+      "productimage/tablet1.png"
     ],
     "product_description": "10.9-inch Liquid Retina display and A14 Bionic chip.",
     "availability": "In Stock",
@@ -228,10 +228,10 @@
   {
     "id": "p016",
     "product_name": "Samsung Galaxy Tab A9+",
-    "product_image": "products/tablet2.png",
-    "image": "products/tablet2.png",
+    "product_image": "productimage/tablet2.png",
+    "image": "productimage/tablet2.png",
     "gallery": [
-      "products/tablet2.png"
+      "productimage/tablet2.png"
     ],
     "product_description": "Samsung Tab with 11-inch display and Snapdragon processor.",
     "availability": "In Stock",
@@ -243,10 +243,10 @@
   {
     "id": "p017",
     "product_name": "Philips Air Fryer HD9200",
-    "product_image": "products/kitchen1.png",
-    "image": "products/kitchen1.png",
+    "product_image": "productimage/kitchen1.png",
+    "image": "productimage/kitchen1.png",
     "gallery": [
-      "products/kitchen1.png"
+      "productimage/kitchen1.png"
     ],
     "product_description": "Fry with less oil using Philips Air Fryer HD9200.",
     "availability": "In Stock",
@@ -258,10 +258,10 @@
   {
     "id": "p018",
     "product_name": "Prestige Mixer Grinder 750W",
-    "product_image": "products/kitchen2.png",
-    "image": "products/kitchen2.png",
+    "product_image": "productimage/kitchen2.png",
+    "image": "productimage/kitchen2.png",
     "gallery": [
-      "products/kitchen2.png"
+      "productimage/kitchen2.png"
     ],
     "product_description": "Durable mixer grinder for Indian cooking needs.",
     "availability": "In Stock",
@@ -273,10 +273,10 @@
   {
     "id": "p019",
     "product_name": "Boat Rockerz 255 Pro+",
-    "product_image": "products/accessory1.png",
-    "image": "products/accessory1.png",
+    "product_image": "productimage/accessory1.png",
+    "image": "productimage/accessory1.png",
     "gallery": [
-      "products/accessory1.png"
+      "productimage/accessory1.png"
     ],
     "product_description": "Wireless earphones with fast charging and great bass.",
     "availability": "In Stock",
@@ -289,10 +289,10 @@
   {
     "id": "p020",
     "product_name": "SanDisk 128GB Ultra microSD Card",
-    "product_image": "products/accessory2.png",
-    "image": "products/accessory2.png",
+    "product_image": "productimage/accessory2.png",
+    "image": "productimage/accessory2.png",
     "gallery": [
-      "products/accessory2.png"
+      "productimage/accessory2.png"
     ],
     "product_description": "High-speed memory card for mobile and camera use.",
     "availability": "In Stock",
